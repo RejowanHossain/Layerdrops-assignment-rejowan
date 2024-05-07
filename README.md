@@ -19,4 +19,5 @@ The coding assignment involves implementing the design of a Figma design.
 - jQuery
 - Owl Carousel
 - jQuery Progressbar
+- Wow Js
 - Font Awesome
