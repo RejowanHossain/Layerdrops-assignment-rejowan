@@ -14,6 +14,14 @@
                 "scrollTop": "0"
             }, 500);
         });
+
+        // Set progress value (from 0 to 100)
+        var progressValue = 70;
+        
+        // Animate progress bar
+        $('.about__text__progress').animate({
+            width: progressValue + '%'
+        }, 1000); // Animation duration: 1000ms (1 second)
     
         // Fade in/out the back to top button based on scroll position
         $(window).on("scroll", function () {
