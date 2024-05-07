@@ -12,3 +12,11 @@ The coding assignment involves implementing the design of a Figma design.
 - Using BEM Methodologies
 - Using Owl Carousel
 - Responsive Design
+
+## Libraries Used
+
+- Bootstrap 5
+- jQuery
+- Owl Carousel
+- jQuery Progressbar
+- Font Awesome
